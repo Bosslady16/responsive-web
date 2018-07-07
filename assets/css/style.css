@@ -179,7 +179,7 @@ img[alt*="social"]{
 }
 
 /*Tablet Styles*/
-@media only screen and (min-width: 401px) and (max-width: 960px) {
+@media only screen and (min-width: 416px) and (max-width: 960px) {
 
 h1 {
 	font-family: 'Cookie', cursive;
@@ -349,7 +349,7 @@ img[alt*="social"]{
 }
 
 /*Mobile Styles*/
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 415px) {
 
 .nav {
 	background: #C2847A;
